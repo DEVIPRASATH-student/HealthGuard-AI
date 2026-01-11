@@ -1,0 +1,15 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+
+
+🔹 Why each package is required
+Package	        Purpose
+
+streamlit	   Web application framework
+scikit-learn   Machine learning models
+pandas	       Dataset handling
+numpy	       Numerical computations
+joblib	       Saving & loading ML models
